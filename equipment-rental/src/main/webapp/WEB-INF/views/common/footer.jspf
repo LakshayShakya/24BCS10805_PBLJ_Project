@@ -1,0 +1,5 @@
+<%@ page pageEncoding="UTF-8" %>
+    <p class="foot">RentTrack &middot; Equipment Rental and Tracking System</p>
+</main>
+</body>
+</html>
